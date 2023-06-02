@@ -14,3 +14,6 @@ API :
   - Filtrage par BPM
   - Filtrage par énergie
   - Recherche par durée
+  - Système de comparaison
+
+
