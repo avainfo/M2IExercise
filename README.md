@@ -13,8 +13,11 @@ Instructions :
 TIPS :
 
   > mongosh - ouvre un shell pour interragir avec la base de donnée
+  > 
   > use - utiliser (ou créer si elle existe pas)
+  > 
   > show dbs - afficher les bases de données
+
 
 API :
   - Recherche par artiste 
