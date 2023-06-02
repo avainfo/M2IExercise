@@ -13,6 +13,7 @@ Instructions :
 TIPS :
 
   mongosh - ouvre un shell pour interragir avec la base de données
+  
   use - utiliser (ou créer si elle existe pas)
 
 API :
