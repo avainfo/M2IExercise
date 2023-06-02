@@ -5,10 +5,10 @@ Instructions :
   1. Télécharger le fichier *\*.tar* sur le lien suivant : [WeTransfer](https://we.tl/t-GfjlsQqqOR)
   2. Executer la commande : *docker load -i [ fichier.tar ]*
   3. Executer la commande : *docker run -d -p 27017:27017 --name MongoDB exercice_mongo:latest*
-  4. Trouvé un moyen de :
-    4.1  Créer une base de données nommées Spotify
-    4.2  Créer une collection nommé spotify
-    4.3  importez le fichier.csv dans la base de données
+  4. Trouvé un moyen de : <br />
+    4.1  Créer une base de données nommées Spotify <br />
+    4.2  Créer une collection nommé spotify <br />
+    4.3  importez le fichier.csv dans la base de données <br />
     
 TIPS :
 
